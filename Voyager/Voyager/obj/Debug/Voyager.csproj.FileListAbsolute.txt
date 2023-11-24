@@ -1,0 +1,14 @@
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\bin\Debug\Voyager.exe.config
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\bin\Debug\Voyager.exe
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\bin\Debug\Voyager.pdb
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.csproj.AssemblyReference.cache
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.csproj.SuggestedBindingRedirects.cache
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.Form1.resources
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.Properties.Resources.resources
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.csproj.GenerateResource.cache
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.csproj.CoreCompileInputs.cache
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.exe
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.pdb
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.name.resources
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.score.resources
+C:\Users\AV\Documents\Visual Studio 2022\Projects\Voyager\Voyager\obj\Debug\Voyager.StartScreen.resources
